@@ -1,0 +1,82 @@
+/* *{
+    box-sizing: border-box;
+    margin: 10px;
+} */
+.div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white; 
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width:98%;
+}
+.one
+{
+    background-color:#FEFCF3; 
+    height: 500px;  
+    border-radius: 30px; 
+}
+.two
+{
+    background-color: white;
+    height: 500px;
+    border-radius: 30px;
+}
+.three
+{
+    background-color: #FEFCF3;
+    height: 500px;
+    border-radius: 30px;
+}
+.four
+{
+    background-color:white;
+    height: 250px;
+    border-radius: 30px;
+}
+/* img{
+    border-radius: 30px;
+  } */
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.input{
+  padding: 5px;
+  background-color: #f8f8f8;
+}
+input[type=submit]{
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #04AA6D;
+  border: none;
+  cursor: pointer;
+}
